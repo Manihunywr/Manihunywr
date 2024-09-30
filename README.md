@@ -12,6 +12,8 @@ void main()
  scanf("%d",&hack);
  prnitf("Enter the name crash");
  scanf("%d",&crash);
+ printf("crash plane is up");
+ scanf("%d",&up);
  printf("Enter the time when crash is hack ");
  scanf("%d",&time);
  printf("The time is 3pm to 5pm");
